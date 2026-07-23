@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} - Markaz Imam Samannudi</title>
-    <link rel="stylesheet" href="/style.css">
-    <link rel="icon" type="image/png" href="/images/logo-markaz-2.png">
+    <link rel="stylesheet" href="{{ "style.css" | relURL }}">
+    <link rel="icon" type="image/png" href="href="{{ "images/logo-markaz-2.png" | relURL }}">
 </head>
 <body>
 
@@ -25,10 +25,10 @@
             <div class="container">
                 <div class="navbar-box">
                     <ul class="menu">
-                        <li><a href="#tentang">Tentang</a></li>
-                        <li><a href="#kelas">Kelas</a></li>
-                         <li><a href="#kontak">Artikel</a></li>
-                        <li><a href="#kontak">Kontak</a></li>
+                        <li><a href="{{ "/#tentang" | relURL }}">Tentang</a></li>
+                        <li><a href="{{ "/#kelas" | relURL }}">Kelas</a></li>
+                         <li><a href="{{ "/posts/" | relURL }}">Artikel</a></li>
+                        <li><a href="#{{ "/#tentang" | relURL }}">Kontak</a></li>
                     </ul>
                 </div>
             </div>
