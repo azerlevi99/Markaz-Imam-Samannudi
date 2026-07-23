@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="detail-artikel">
+  <header class="artikel-header">
+    <h1 class="artikel-title">{{ .Title }}</h1>
+    <div class="artikel-meta">
+      <time>Diterbitkan: {{ .Date.Format "02 January 2006" }}</time>
+      {{ if .Params.author }}
+        <span class="author">• Oleh: {{ .Params.author }}</span>
+      {{ end }}
+    </div>
+  </header>
+
+  <hr class="divider">
+
+  <!-- Bagian ini merender seluruh isi konten .md kamu -->
+  <div class="artikel-body">
+    {{ .Content }}
+  </div>
+
+  <div class="artikel-footer">
+    <a href="/posts/" class="btn-kembali">← Kembali ke Bank Artikel</a>
+  </div>
+</article>
+{{ end }}

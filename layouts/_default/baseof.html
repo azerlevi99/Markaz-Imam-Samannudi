@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} - Markaz Imam Samannudi</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="icon" type="image/png" href="/images/logo-markaz-2.png">
+</head>
+<body>
+
+    <!-- Taruh kode Navbar/Header kamu di sini -->
+    <header>
+        <!-- Scroll up -->
+        <div class="scroll-up">
+            <a href="#beranda">
+            <i class="fa-solid fa-arrow-up"></i>
+            </a>
+        </div>
+    <!-- Scroll up -->
+
+    <header>
+        <!-- Navbar -->
+        <div class="navbar">
+            <div class="container">
+                <div class="navbar-box">
+                    <ul class="menu">
+                        <li><a href="#tentang">Tentang</a></li>
+                        <li><a href="#kelas">Kelas</a></li>
+                         <li><a href="#kontak">Artikel</a></li>
+                        <li><a href="#kontak">Kontak</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Navbar -->
+    </header>
+
+    <!-- Tempat konten unik (Home, Bank Artikel, atau Detail Artikel) dirender -->
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    <!-- Taruh kode Footer kamu di sini -->
+    <footer>
+        <footer id="kontak">
+            <p>&copy; Copyright by <span> Markaz Imam Samannudi </span> </p>
+            <div class="social">
+                <a href="https://www.instagram.com/markazimamsamannudi/?hl=id" target="_blank">
+                    <i class="fa-brands fa-square-instagram"></i>
+                </a>
+                <a href="https://www.threads.com/@markazimamsamannudi" target="_blank">
+                    <i class="fa-brands fa-square-threads"></i>
+                </a>
+                <a href="https://chat.whatsapp.com/Lx3Qso2LVTuBqiolxyuqjY?mode=gi_t" target="_blank">
+                    <i class="fa-brands fa-square-whatsapp"></i>
+                </a>
+            </div>
+        </footer>
+    </footer>
+
+</body>
+</html>
