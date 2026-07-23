@@ -2,7 +2,6 @@
 date = '2026-07-23T06:17:42+07:00'
 draft = false
 title = 'Candaan Qiraat'
-summary = 'Dalam Qiraat Al-Kisa'i, beliau (Al-Kisai) bukan termasuk para qurro yang membaca dengan ibdal (mubdilin). Apa itu Ibdal?'
 +++
 Dalam Qiraat Al-Kisa'i, beliau (Al-Kisai) bukan termasuk para qurro yang membaca dengan ibdal (mubdilin). Apa itu Ibdal?
 
