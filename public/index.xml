@@ -14,18 +14,18 @@
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Artikel Kedua</title>
+				<title>Pengingat Sebelum Memulai Amal</title>
 				<link>http://localhost:1313/posts/artikel-kedua/</link>
 				<pubDate>Thu, 23 Jul 2026 06:35:57 +0700</pubDate>
 				<guid>http://localhost:1313/posts/artikel-kedua/</guid>
-				<description>&lt;p&gt;halo ini artikel kedua&lt;/p&gt;</description>
+				<description>&lt;p&gt;Rasulullah Shallallahu &amp;lsquo;alaihi wa sallam bersabda:&#xA;إِنَّمَا الأَعمَالُ بِالنِّيَّاتِ&#xA;&amp;ldquo;Sesungguhnya amalan itu didasarkan pada niatnya.&amp;rdquo; (HR. Bukhari dan Muslim)&lt;/p&gt;&#xA;&lt;p&gt;Maknanya:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Semua perbuatan manusia disandarkan pada niatnya. Amalan yang baik tidak cukup untuk diterima, tapi juga harus dengan niat yang baik.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mendapatkan pahala tidak dapat direalisasikan kecuali dengan niat. Tanpa niat, tidak ada pahala.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Niatlah yang membuat sebuah kebiasaan menjadi ibadah dan ibadah menjadi kebiasaan. Makan dan minum bisa bernilai ibadah jika diniatkan untuk membantu beribadah. Salat 5 waktu hanyalah kebiasaan jika tidak ada niat untuk melaksanakan perintah Allah.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Candaan Qiraat</title>
 				<link>http://localhost:1313/posts/artikel-pertama/</link>
 				<pubDate>Thu, 23 Jul 2026 06:17:42 +0700</pubDate>
 				<guid>http://localhost:1313/posts/artikel-pertama/</guid>
-				<description>&lt;p&gt;Dalam Qiraat Al-Kisa&amp;rsquo;i, beliau (Al-Kisai) bukan termasuk para qurro yang membaca dengan ibdal (mubdilin). Apa itu Ibdal?&lt;/p&gt;&#xA;&lt;p&gt;Ibdal adalah mengganti huruf hamzah dengan huruf yang sejenis dengan harakat sebelumnya. Misalnya kata (بِئْسَ). Kalau kita membaca dengan Ibdal (seperti dalam Riwayat Warsy, As-Susi dan Abu Ja&amp;rsquo;far) maka kita membacanya dengan mengganti hamzah dengan ya (بِيّسَ). Kenapa diganti dengan ya, dan bukan dengan huruf mad yang lain? karena ya sejenis dengan kasrah yang dimana kasrah itu adalah harakat sebelum hamzah tersebut. InsyaAllah paham ya, apa itu ibdal?&lt;/p&gt;</description>
+				<description>&lt;p&gt;Dalam Qiraat Imam Al-Kisa&amp;rsquo;i, beliau (Imam Al-Kisai) bukan termasuk para qurro yang membaca dengan ibdal (mubdilin). Apa itu Ibdal?&lt;/p&gt;&#xA;&lt;p&gt;Ibdal adalah mengganti huruf hamzah dengan huruf yang sejenis dengan harakat sebelumnya. Misalnya kata (بِئْسَ). Kalau kita membaca dengan Ibdal (seperti dalam Riwayat Warsy, As-Susi dan Abu Ja&amp;rsquo;far) maka kita membacanya dengan mengganti hamzah dengan ya (بِيّسَ). Kenapa diganti dengan ya, dan bukan dengan huruf mad yang lain? karena ya sejenis dengan kasrah yang dimana kasrah itu adalah harakat sebelum hamzah tersebut. InsyaAllah paham ya, apa itu ibdal?&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -99,7 +99,7 @@
                                 <div class="struktur-desc">
                                     <h3>Teuku Reza Pahlevi, B.A. </h3>
                                     <p>Pengajar Tahfizh </p>
-                                    <a href="https://teukurezapahlevi.netlify.app/" target="_blank"> Lihat Profil</a>
+                                    <a href="https://teukurezapahlevi.vercel.app" target="_blank"> Lihat Profil</a>
                                 </div>
                             </div>
                             <div class="struktur-box" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" data-aos-once="true">
@@ -166,11 +166,22 @@
 
                 <!-- Hanya menampilkan 3 artikel paling baru -->
                 <div class="container-artikel">
-                    {{ range first 3 (where .Site.RegularPages "Type" "posts") }}
+                    {{ range first 3 .Site.RegularPages }}
                         <article class="kartu-artikel">
+                            
                             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                             <small>{{ .Date.Format "02 Jan 2006" }}</small>
-                            <p>{{ .Summary | truncate 120}}</p>
+                            
+                            <!-- Tags Container -->
+                            {{ with .Params.tags }}
+                                <div class="tags-container">
+                                    {{ range . }}
+                                        <span class="tag-item">{{ . }}</span>
+                                    {{ end }}
+                                </div>
+                            {{ end }}
+
+                            <p>{{ .RawContent | plainify | truncate 120 }}</p>
                         </article>
                     {{ end }}
                 </div>

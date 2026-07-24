@@ -430,6 +430,24 @@ footer .social a {
   display: block;
 }
 
+/* Tag artikel */
+.tags-container {
+    margin: 2px 0 20px 0;  
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    min-height: 28px;
+}
+
+.tag-item {
+    background-color: #e0e7ff;
+    color: #3730a3;
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-weight: 600;
+}
+
 /* Ringkasan Artikel */
 
 .kartu-artikel p {
@@ -576,11 +594,12 @@ footer .social a {
     margin-bottom: 1.5rem;
 }
 
-.artikel-body h2, .artikel-body h3 {
+.artikel-body h3, .artikel-body h2 {
     color: #111827;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
+
 
 /* Tombol Kembali */
 .artikel-footer {

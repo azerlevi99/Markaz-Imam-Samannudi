@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hadits on My New Hugo Project</title>
+		<link>http://localhost:1313/tags/hadits/</link>
+		<description>Recent content in Hadits on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 23 Jul 2026 06:35:57 +0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/hadits/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Artikel Kedua</title>
+				<link>http://localhost:1313/posts/artikel-kedua/</link>
+				<pubDate>Thu, 23 Jul 2026 06:35:57 +0700</pubDate>
+				<guid>http://localhost:1313/posts/artikel-kedua/</guid>
+				<description>&lt;p&gt;Rasulullah Shallallahu &amp;lsquo;alaihi wa sallam bersabda:&#xA;إِنَّمَا الأَعمَالُ بِالنِّيَّاتِ&#xA;&amp;ldquo;Sesungguhnya amalan itu didasarkan pada niatnya.&amp;rdquo; (HR. Bukhari dan Muslim)&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
