@@ -5,7 +5,9 @@ title = 'Pengingat Sebelum Memulai Amal'
 tags = ['Hadits']
 +++
 Rasulullah Shallallahu 'alaihi wa sallam bersabda:
+
 إِنَّمَا الأَعمَالُ بِالنِّيَّاتِ
+
 "Sesungguhnya amalan itu didasarkan pada niatnya." (HR. Bukhari dan Muslim)
 
 Maknanya:

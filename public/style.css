@@ -170,7 +170,7 @@ header svg {
 }
 
 .tentang-box .box p{
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .tentang-box .box .struktur-box a{
@@ -192,6 +192,13 @@ header svg {
 .tentang-box .box .struktur-box a:hover {
     background-color: #00008b;
     color: white ;
+}
+
+.box .struktur-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
 @media (max-width: 768px){
@@ -233,6 +240,7 @@ header svg {
     grid-template-columns: repeat(3,1fr);
     margin-top: 20px;
 }
+
 
 .kelas-box .box {
     padding: 20px;
@@ -616,4 +624,122 @@ footer .social a {
 
 .btn-kembali:hover {
     text-decoration: underline;
+}
+
+/* Visi misi */
+/* Box Pembungkus Utama */
+.tentang-box .box:nth-child(2) {
+    display: flex;
+    flex-direction: column; /* Menyusun Judul di atas dan Konten di bawah */
+    align-items: center;
+    margin-bottom: 80px;
+    width: 100%;
+}
+
+/* Styling Judul Visi & Misi di Atas */
+.tentang-box .vm-title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/* Container Grid 2 Kolom (Visi Kiri, Misi Kanan) */
+.tentang-box .visi-misi-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Membagi 2 kolom sama rata (50% : 50%) */
+    gap: 30px;
+    width: 100%;
+}
+
+/* Kartu Visi & Misi */
+.tentang-box .vm-card {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 24px;
+    transition: 0.3s;
+    height: 100%; /* Agar tinggi kedua kartu sejajar otomatis */
+}
+
+/* Efek Hover */
+.tentang-box .vm-card:hover {
+    background-color: white;
+    color: #00008B; /* Warna teks berubah saat di-hover */
+}
+
+/* Header & Badge */
+.tentang-box .vmheader {
+    margin-bottom: 16px;
+}
+
+.tentang-box .vm-badge {
+    background-color: aliceblue;
+    color: #00008B;
+    padding: 4px 12px;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+}
+
+/* Teks Visi & List Misi */
+.tentang-box .visi-text,
+.tentang-box .misi-list {
+    line-height: 1.8;
+    margin: 0;
+}
+
+.tentang-box .misi-list {
+    padding-left: 20px;
+}
+
+.tentang-box .misi-list li {
+    margin-bottom: 8px;
+}
+
+.tentang-box .misi-list li:last-child {
+    margin-bottom: 0;
+}
+
+/* Responsif Mobile: Otomatis Bertumpuk di Layar Kecil */
+@media (max-width: 768px) {
+    .tentang-box .visi-misi-grid {
+        grid-template-columns: 1fr; /* Jadi 1 kolom untuk HP */
+    }
+}
+
+/* Header & Badge */
+.tentang-box .vmheader {
+    margin-bottom: 12px;
+}
+
+.tentang-box .vm-badge {
+    background-color: aliceblue;
+    color: #00008B;
+    padding: 4px 12px;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+}
+
+/* Teks Visi */
+.tentang-box .visi-text {
+    line-height: 1.8;
+    margin: 0;
+}
+
+/* List Misi */
+.tentang-box .misi-list {
+    padding-left: 20px;
+    margin: 0;
+}
+
+.tentang-box .misi-list li {
+    line-height: 1.8;
+    margin-bottom: 8px;
+}
+
+.tentang-box .misi-list li:last-child {
+    margin-bottom: 0;
 }
