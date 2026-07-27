@@ -12,10 +12,38 @@
 
   <hr class="divider">
 
-  <!-- Bagian ini merender seluruh isi konten .md kamu -->
+  
   <div class="artikel-body">
     {{ .Content }}
   </div>
+
+  {{ with .GetTerms "authors" }}
+    {{ range . }}
+      <div class="author-box-article">
+        <div class="author-box-article-avatar">
+          {{ if .Params.avatar }}
+            <img src="{{ .Params.avatar | relURL }}" alt="{{ .Title }}">
+          {{ else }}
+            <img src="/images/default-avatar.png" alt="{{ .Title }}">
+          {{ end }}
+        </div>
+        <div class="author-box-article-info">
+          <h3 class="author-box-article-name">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
+          </h3>
+
+          {{ if .Params.role }}
+            <span class="author-box-article-role">{{ .Params.role }}</span>
+          {{ end }}
+          {{ if .Params.bio }}
+            <p class="author-box-article-bio">{{ .Params.bio }}</p>
+          {{ else if .Content }}
+            <div class="author-box-article-bio">{{ .Content }}</div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
 
   <div class="artikel-footer">
     <a href="/posts/" class="btn-kembali">← Kembali ke Bank Artikel</a>

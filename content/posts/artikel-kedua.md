@@ -3,6 +3,7 @@ date = '2026-07-23T06:35:57+07:00'
 draft = false
 title = 'Pengingat Sebelum Memulai Amal'
 tags = ['Hadits']
+authors = ["teuku-reza-pahlevi"]
 +++
 Rasulullah Shallallahu 'alaihi wa sallam bersabda:
 

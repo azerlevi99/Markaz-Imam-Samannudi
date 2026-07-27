@@ -199,6 +199,7 @@ header svg {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 @media (max-width: 768px){
@@ -241,6 +242,9 @@ header svg {
     margin-top: 20px;
 }
 
+.kelas .container .kelas-header {
+    margin-bottom: 20px;
+}
 
 .kelas-box .box {
     padding: 20px;
@@ -265,10 +269,11 @@ header svg {
 }
 
 .kelas-box .kelas-desc p {
-    line-height: 2px;
+    line-height: 1.5;
     color: rgba(0, 0, 0, 0.6);
     margin-top: 10px;
     margin-bottom: 20px;
+    height: auto;
 }
 
 .kelas-box .kelas-desc .kelas-btn {
@@ -387,6 +392,11 @@ footer .social a {
     color: white;
     padding-bottom: 50px;
 }
+
+.artikel-terbaru h1 {
+    margin-bottom: 20px;
+}
+
 /* Container untuk membungkus semua kartu artikel */
 .container-artikel {
   display: grid;
@@ -394,6 +404,13 @@ footer .social a {
   gap: 20px;
   margin-top: 25px;
   margin-bottom: 30px;
+}
+
+@media (max-width: 1040px) {
+    .container-artikel{
+        padding-left: 20px;
+        padding-right: 20px ;
+    }
 }
 
 /* Desain untuk masing-masing kartu artikel */
@@ -743,3 +760,218 @@ footer .social a {
 .tentang-box .misi-list li:last-child {
     margin-bottom: 0;
 }
+
+
+/* Author */
+.authors-section {
+    width: 100%;
+    padding: 30px 0;
+    overflow: hidden;
+    background-color: #00008B;
+    color: white;
+}
+
+.authors-section h2{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    font-size: 2rem;
+}
+
+.autors-marquee {
+    display: flex;
+    width: 100%;
+}
+
+.autors-track {
+    display: flex;
+    gap: 30px;
+    width: max-content;
+    animation: marquee-scroll 25s linear infinite;
+}
+
+.autors-marquee:hover .autors-track{
+    animation-play-state: paused;
+}
+
+.authors-section .author-card {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background-color: #ffffff;
+    padding: 10px 16px;
+    border-radius: 50px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.author-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.authors-section .author-avatar {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid #e2e8f0;
+}
+
+.author-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ .authors-section .author-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #1a202c;
+    margin: 0;
+}
+
+.authors-section .author-role {
+    font-size: 0.75rem;
+    color: #1a202c;
+    margin: 0;
+}
+
+@keyframes marquee-scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+/* halaman profile */
+.author-profile-section {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.author-header{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.author-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50px;
+    object-fit: cover;
+}
+
+.author-name {
+    margin-top: 15px;
+}
+
+.author-role {
+    color: #666666;
+    font-weight: bold;
+}
+
+.author-bio {
+    margin-top: 15px;
+    line-height: 1.6;
+}
+
+.author-divider {
+  border: 0;
+  border-top: 1px solid #eeeeee;
+  margin: 30px 0;
+}
+
+/* Daftar Artikel */
+.articles-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.article-item {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #f0f0f0;
+  padding-bottom: 15px;
+}
+
+.article-title {
+  margin-bottom: 5px;
+}
+
+.article-title a {
+  text-decoration: none;
+  color: #00008B; /* Sesuaikan dengan warna brand kamu */
+}
+
+.article-title a:hover {
+  text-decoration: underline;
+}
+
+.article-date {
+  font-size: 0.85rem;
+  color: #777777;
+  margin-bottom: 10px;
+}
+
+.article-summary {
+  color: #333333;
+  line-height: 1.5;
+}
+
+.empty-articles {
+  text-align: center;
+  color: #888888;
+}
+
+/* Box author */
+.author-box-article {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    background-color: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.author-box-article-avatar img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    object-fit: cover;
+}
+
+.author-box-article-name {
+    margin: 0;
+    font-size: 1.25rem;
+}
+
+.author-box-article-name a{
+    text-decoration: none;
+    color: #111827;
+    font-weight: bold;
+}
+
+.author-box-article-role {
+    display: inline-block;
+    font-size: 0.875rem;
+    color: #6b7280;
+    margin-bottom: 0.5rem;
+}
+
+.author-box-article-bio {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #374151;
+    line-height: 1.5;
+}
+
+/* Box author */

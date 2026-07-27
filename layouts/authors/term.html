@@ -1,0 +1,42 @@
+{{ define "main" }}
+    <section class="author-profile-section">
+        <div class="author-header">
+            {{ if .Params.avatar }}
+                <img src="{{.Params.avatar | relURL}}" alt=" {{ .Title}}" class="author-avatar">
+            {{ end }} 
+            <h1 class="author-name">{{ .Title }}</h1>
+            {{ if .Params.role }}
+                <p class="author-role">{{ .Params.role }}</p>
+            {{ end }}
+            {{ if .Params.bio }}
+                <div class="author-bio">
+                    <p>{{ .Params.bio }}</p>
+                </div>
+            {{ end }}
+            {{ if .Content }}
+                <div class="author-bio">
+                    {{ .Content }}
+                </div>
+            {{ end }}
+        </div>
+
+        <hr class="author-divider">
+
+        <h2 class="articles-title"> Daftar Artikel oleh {{ .Title}}</h2>
+
+        <div class="author-articles">
+            {{ range .RegularPages }}
+                <article class="article-item">
+                    <h3 class="article-title">
+                        <a href="{{ .RelPermalink }}"> {{ .Title}}</a>
+                    </h3>
+                    <p class="article-date"> Dipublikasikan pada {{ .Date.Format "02 Jan 2006" }}</p>
+                    <p class="article-summary">{{ .Summary | plainify | truncate 120 }}</p>
+                </article>
+            {{ else }}
+                <p class="empty-articles"> Belum ada artikel yang ditulis oleh {{ .Title }}.</p>
+            {{ end }}
+        </div>
+
+    </section>
+{{ end }}
