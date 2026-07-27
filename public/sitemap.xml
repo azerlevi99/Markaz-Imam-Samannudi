@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://example.org/authors/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hadits/</loc>
+    <loc>https://example.org/tags/hadits/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/artikel-kedua/</loc>
+    <loc>https://example.org/posts/artikel-kedua/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/teuku-reza-pahlevi/</loc>
+    <loc>https://example.org/authors/teuku-reza-pahlevi/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bahasa-arab/</loc>
+    <loc>https://example.org/tags/bahasa-arab/</loc>
     <lastmod>2026-07-23T06:17:42+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/artikel-pertama/</loc>
+    <loc>https://example.org/posts/artikel-pertama/</loc>
     <lastmod>2026-07-23T06:17:42+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/qiraat/</loc>
+    <loc>https://example.org/tags/qiraat/</loc>
     <lastmod>2026-07-23T06:17:42+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/fulan-1/</loc>
+    <loc>https://example.org/authors/fulan-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/fulan-2/</loc>
+    <loc>https://example.org/authors/fulan-2/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/fulanah/</loc>
+    <loc>https://example.org/authors/fulanah/</loc>
   </url>
 </urlset>

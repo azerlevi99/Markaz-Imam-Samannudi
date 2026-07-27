@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Hadits on My New Hugo Project</title>
-		<link>http://localhost:1313/tags/hadits/</link>
+		<link>https://example.org/tags/hadits/</link>
 		<description>Recent content in Hadits on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 23 Jul 2026 06:35:57 +0700</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/hadits/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/tags/hadits/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Pengingat Sebelum Memulai Amal</title>
-				<link>http://localhost:1313/posts/artikel-kedua/</link>
+				<link>https://example.org/posts/artikel-kedua/</link>
 				<pubDate>Thu, 23 Jul 2026 06:35:57 +0700</pubDate>
-				<guid>http://localhost:1313/posts/artikel-kedua/</guid>
+				<guid>https://example.org/posts/artikel-kedua/</guid>
 				<description>&lt;p&gt;Rasulullah Shallallahu &amp;lsquo;alaihi wa sallam bersabda:&lt;/p&gt;&#xA;&lt;p&gt;إِنَّمَا الأَعمَالُ بِالنِّيَّاتِ&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Sesungguhnya amalan itu didasarkan pada niatnya.&amp;rdquo; (HR. Bukhari dan Muslim)&lt;/p&gt;&#xA;&lt;p&gt;Maknanya:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Semua perbuatan manusia disandarkan pada niatnya. Amalan yang baik tidak cukup untuk diterima, tapi juga harus dengan niat yang baik.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mendapatkan pahala tidak dapat direalisasikan kecuali dengan niat. Tanpa niat, tidak ada pahala.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Niatlah yang membuat sebuah kebiasaan menjadi ibadah dan ibadah menjadi kebiasaan. Makan dan minum bisa bernilai ibadah jika diniatkan untuk membantu beribadah. Salat 5 waktu hanyalah kebiasaan jika tidak ada niat untuk melaksanakan perintah Allah.&lt;/p&gt;</description>
 			</item>
 	</channel>
