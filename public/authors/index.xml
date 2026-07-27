@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Authors on My New Hugo Project</title>
-		<link>https://example.org/authors/</link>
+		<link>http://localhost:1313/authors/</link>
 		<description>Recent content in Authors on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Thu, 23 Jul 2026 06:35:57 +0700</lastBuildDate>
 		
-			<atom:link href="https://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Teuku Reza Pahlevi</title>
-				<link>https://example.org/authors/teuku-reza-pahlevi/</link>
+				<link>http://localhost:1313/authors/teuku-reza-pahlevi/</link>
 				<pubDate>Thu, 23 Jul 2026 06:35:57 +0700</pubDate>
-				<guid>https://example.org/authors/teuku-reza-pahlevi/</guid>
+				<guid>http://localhost:1313/authors/teuku-reza-pahlevi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fulan 1</title>
-				<link>https://example.org/authors/fulan-1/</link>
+				<link>http://localhost:1313/authors/fulan-1/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/authors/fulan-1/</guid>
+				<guid>http://localhost:1313/authors/fulan-1/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fulan 2</title>
-				<link>https://example.org/authors/fulan-2/</link>
+				<link>http://localhost:1313/authors/fulan-2/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/authors/fulan-2/</guid>
+				<guid>http://localhost:1313/authors/fulan-2/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fulanah</title>
-				<link>https://example.org/authors/fulanah/</link>
+				<link>http://localhost:1313/authors/fulanah/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/authors/fulanah/</guid>
+				<guid>http://localhost:1313/authors/fulanah/</guid>
 				<description></description>
 			</item>
 	</channel>

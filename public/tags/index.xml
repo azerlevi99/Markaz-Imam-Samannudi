@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on My New Hugo Project</title>
-		<link>https://example.org/tags/</link>
+		<link>http://localhost:1313/tags/</link>
 		<description>Recent content in Tags on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Thu, 23 Jul 2026 06:35:57 +0700</lastBuildDate>
 		
-			<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Hadits</title>
-				<link>https://example.org/tags/hadits/</link>
+				<link>http://localhost:1313/tags/hadits/</link>
 				<pubDate>Thu, 23 Jul 2026 06:35:57 +0700</pubDate>
-				<guid>https://example.org/tags/hadits/</guid>
+				<guid>http://localhost:1313/tags/hadits/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bahasa Arab</title>
-				<link>https://example.org/tags/bahasa-arab/</link>
+				<link>http://localhost:1313/tags/bahasa-arab/</link>
 				<pubDate>Thu, 23 Jul 2026 06:17:42 +0700</pubDate>
-				<guid>https://example.org/tags/bahasa-arab/</guid>
+				<guid>http://localhost:1313/tags/bahasa-arab/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Qiraat</title>
-				<link>https://example.org/tags/qiraat/</link>
+				<link>http://localhost:1313/tags/qiraat/</link>
 				<pubDate>Thu, 23 Jul 2026 06:17:42 +0700</pubDate>
-				<guid>https://example.org/tags/qiraat/</guid>
+				<guid>http://localhost:1313/tags/qiraat/</guid>
 				<description></description>
 			</item>
 	</channel>
