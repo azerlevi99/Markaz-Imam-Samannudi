@@ -10,12 +10,12 @@
           <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
           <small class="artikel-date">{{ .Date.Format "02 Jan 2006" }}</small>
           {{with .Params.tags }}
-                <div class="tags-container">
-                    {{ range . }}
-                        <span class="tag-item">{{ . }}</span>
-                    {{ end }}
-                </div>
-            {{ end }}
+            <div class="tags-container">
+                {{ range . }}
+                  <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag-item">{{ . }}</a>
+                {{ end }}
+            </div>
+          {{ end }}
           <p>{{ .RawContent | truncate 60 }}</p>
           <a href="{{ .RelPermalink }}" class="btn-baca">Baca Selengkapnya →</a>
         </div>
