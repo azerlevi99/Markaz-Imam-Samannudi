@@ -4,7 +4,6 @@ nama: "Andi Librian Wahyu Pratama"
 program: "Tahfizh Juz 26-30"
 tanggal: "28 Juni 2026"
 status: "Valid"
-pdf_url: "https://drive.google.com/path-to-pdf-file" # Opsional
-
+pdf_url: "https://drive.google.com/file/d/1Jq-LAECuuTBuY0kGA1Y7fuxDHrhqzOTb/view?usp=sharing" 
 url: "/verifikasi/001-MIS-STF-VI-2026/"
 ---
