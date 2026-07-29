@@ -202,7 +202,7 @@
 
                 <!-- Hanya menampilkan 3 artikel paling baru -->
                 <div class="container-artikel">
-                    {{ range first 3 .Site.RegularPages }}
+                    {{ range first 3 (where .Site.RegularPages "Section" "posts") }}
                         <article class="kartu-artikel">
                             
                             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
