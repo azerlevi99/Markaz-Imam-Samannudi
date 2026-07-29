@@ -4,7 +4,7 @@ nama: "Yustiawati"
 program: "Tahfiz Juz 26-30"
 tanggal: "16 Juli 2026"
 status: "Valid"
-pdf_url: "https://drive.google.com/drive/u/1/folders/11TAeusuPBg_1FreJnxUgufMB_4Yq6XlJ" 
+pdf_url: "https://drive.google.com/drive/folders/1rmQHLlcOF_Fgoa575--cmUssEPIvidsV?usp=drive_link" 
 type: "verifikasi"
 layout: "single"
 ---
