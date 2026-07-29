@@ -4,7 +4,7 @@ nama: "Zaki Ismail Dakhilullah"
 program: "Tahfizh Juz 1-2"
 tanggal: "9 Juli 2026"
 status: "Valid"
-pdf_url: "https://drive.google.com/drive/folders/11TAeusuPBg_1FreJnxUgufMB_4Yq6XlJ?usp=sharing" 
+pdf_url: "https://drive.google.com/drive/folders/1RKI0dWBn_Bc2JT5oLDmI5l6ar0ZYTSwq?usp=drive_link" 
 type: "verifikasi"
 layout: "single"
 ---
