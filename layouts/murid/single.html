@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article class="portal-murid" style="max-width: 80%; margin: 10px auto;">
+  
+  <!-- Kartu Profil Murid -->
+  <div class="profile-card" style="display: flex; flex-direction: column; text-align: center; gap: 20px; align-items: center; background: #f9fafb; padding: 30px; border-radius: 12px; margin-bottom: 30px; border: 1px solid #e5e7eb;">
+    {{ if .Params.foto }}
+      <img src="{{ .Params.foto }}" alt="{{ .Title }}" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+    {{ end }}
+    
+    <div class="profile-bio">
+      <h1 style="margin: 0 0 8px 0;">{{ .Title }}</h1>
+      <div class="profile-bio-desc" style="text-align: left;">
+        {{ if .Params.asal }}<p style="margin: 4px 0;"><strong>Asal:</strong> {{ .Params.asal }}</p>{{ end }}
+        {{ if .Params.kegiatan_sehari_hari }}<p style="margin: 4px 0;"><strong>Kegiatan sehari-hari: </strong> {{ .Params.kegiatan_sehari_hari }}</p>{{ end }}
+        {{ if .Params.pembimbing }}<p style="margin: 4px 0;"><strong>Pembimbing:</strong> {{ .Params.pembimbing }}</p>{{ end }}
+        {{ if .Params.bergabung }}<p style="margin: 4px 0;"><strong>Bergabung:</strong> {{ .Params.bergabung }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <!-- Konten Laporan / Embed Sheet -->
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+</article>
+{{ end }}

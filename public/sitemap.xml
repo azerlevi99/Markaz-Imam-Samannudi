@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/artikel-ketiga/</loc>
+    <lastmod>2026-07-31T06:35:57+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2026-07-23T06:35:57+07:00</lastmod>
+    <lastmod>2026-07-31T06:35:57+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bahasa-arab/</loc>
+    <lastmod>2026-07-31T06:35:57+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-31T06:35:57+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-07-31T06:35:57+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-31T06:35:57+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/teuku-reza-pahlevi/</loc>
+    <lastmod>2026-07-31T06:35:57+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hadits/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-23T06:35:57+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/artikel-kedua/</loc>
     <lastmod>2026-07-23T06:35:57+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-23T06:35:57+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-23T06:35:57+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/teuku-reza-pahlevi/</loc>
-    <lastmod>2026-07-23T06:35:57+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bahasa-arab/</loc>
-    <lastmod>2026-07-23T06:17:42+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/artikel-pertama/</loc>
     <lastmod>2026-07-23T06:17:42+07:00</lastmod>
@@ -49,6 +52,10 @@
     <loc>http://localhost:1313/authors/fulan-2/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/fulanah/</loc>
+  </url><url>
+    <loc>http://localhost:1313/murid/faf368dd-3fa7-490e-957e-6ad3496aeb2a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/murid/</loc>
   </url><url>
     <loc>http://localhost:1313/verifikasi/</loc>
   </url>
