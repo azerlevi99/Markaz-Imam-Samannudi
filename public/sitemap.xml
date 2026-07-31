@@ -47,15 +47,21 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/murid/b8d18a4c-557b-46e0-8823-ecbd8589e49d/</loc>
+  </url><url>
     <loc>http://localhost:1313/authors/fulan-1/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/fulan-2/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/fulanah/</loc>
   </url><url>
-    <loc>http://localhost:1313/murid/faf368dd-3fa7-490e-957e-6ad3496aeb2a/</loc>
+    <loc>http://localhost:1313/murid/5178f7dd-5449-4700-a38f-18f2a4f2a618/</loc>
+  </url><url>
+    <loc>http://localhost:1313/murid/22a4e4fb-b47d-4f15-b684-2999f2fdc807/</loc>
   </url><url>
     <loc>http://localhost:1313/murid/</loc>
+  </url><url>
+    <loc>http://localhost:1313/murid/faf368dd-3fa7-490e-957e-6ad3496aeb2a/</loc>
   </url><url>
     <loc>http://localhost:1313/verifikasi/</loc>
   </url>
