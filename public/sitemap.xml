@@ -63,8 +63,12 @@
   </url><url>
     <loc>http://localhost:1313/murid/</loc>
   </url><url>
+    <loc>http://localhost:1313/murid/adcafbed-0f96-4e31-ac33-1acd2755553c/</loc>
+  </url><url>
     <loc>http://localhost:1313/murid/faf368dd-3fa7-490e-957e-6ad3496aeb2a/</loc>
   </url><url>
     <loc>http://localhost:1313/verifikasi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/murid/019041ab-0238-4eff-bc80-21c4e0f5dfc0/</loc>
   </url>
 </urlset>
