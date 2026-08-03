@@ -1,7 +1,7 @@
 ---
 title: "Hanzholah Anshori"
 foto: "/images/foto-hanzholah.jpg"
-Asal: "Lombok Timur"
+Asal: "Kabupaten Lombok Timur"
 Kegiatan: "Santri Pesantren Tahfiz Imam Ibnul Jazary"
 Angkatan: "7"
 pembimbing: "Ust. Ainun Hakim & Ust. Teuku Reza Pahlevi"

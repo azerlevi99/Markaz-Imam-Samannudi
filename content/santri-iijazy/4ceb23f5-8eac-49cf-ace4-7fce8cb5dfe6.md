@@ -1,7 +1,7 @@
 ---
 title: "Zilal Assyuhada'"
 foto: "/images/foto-zilal-asysyuhada.jpg"
-Asal: "Lombok Barat"
+Asal: "Kabupaten Lombok Barat"
 Kegiatan: "Santri Pesantren Tahfiz Imam Ibnul Jazary"
 Angkatan: "7"
 pembimbing: "Ust. Ainun Hakim & Ust. Teuku Reza Pahlevi"
