@@ -49,6 +49,8 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/santri-iijazy/581351b0-20b0-4e98-bcbb-741d0fdf8650/</loc>
+  </url><url>
     <loc>http://localhost:1313/murid/b8d18a4c-557b-46e0-8823-ecbd8589e49d/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/fulan-1/</loc>
@@ -64,6 +66,8 @@
     <loc>http://localhost:1313/murid/</loc>
   </url><url>
     <loc>http://localhost:1313/murid/adcafbed-0f96-4e31-ac33-1acd2755553c/</loc>
+  </url><url>
+    <loc>http://localhost:1313/santri-iijazy/</loc>
   </url><url>
     <loc>http://localhost:1313/murid/faf368dd-3fa7-490e-957e-6ad3496aeb2a/</loc>
   </url><url>

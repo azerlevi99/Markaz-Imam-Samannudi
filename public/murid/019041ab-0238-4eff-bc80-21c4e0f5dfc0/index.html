@@ -58,75 +58,298 @@
 
     <main>
       
-<article class="portal-murid" style="max-width: 80%; margin: 10px auto;">
+  <style>
+
+    .header-portal-murid {
+    text-align: center; 
+    margin: 50px 0;
+    }
+
+    .header-portal-murid img {
+      width: 80px; 
+      height: auto; 
+      display: block; 
+      margin: 0 auto;
+    }
+
+    .header-portal-murid h2 {
+      margin-bottom: 5px; 
+      margin-top: 30px;
+    }
   
-  
-  <div class="profile-card" style="display: flex; flex-direction: column; text-align: center; gap: 20px; align-items: center; background: #f9fafb; padding: 30px; border-radius: 12px; margin-bottom: 30px; border: 1px solid #e5e7eb;">
+    .profile-card {
+      display: flex; 
+      flex-direction: column; 
+      text-align: center; 
+      gap: 15px; 
+      align-items: center; 
+      background: #f9fafb; 
+      padding: 30px 20px; 
+      border-radius: 12px; 
+      margin-bottom: 30px; 
+      border: 1px solid #e5e7eb;
+    }
+
+    .profile-bio {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+
+    .bio-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px auto 0;
+      text-align: left;
+      font-size: 14px;
+    }
+
+    .bio-table td {
+      padding: 4px 6px;
+      vertical-align: top;
+    }
+
+    .bio-table td.label {
+      font-weight: bold;
+      color: #334155;
+      white-space: nowrap; 
+      width: 160px;
+    }
+
+    .bio-table td.colon {
+      width: 10px;
+      text-align: center;
+    }
+
+    .table-container {
+      width: 100%;
+      max-height: 400px;
+      overflow-y: auto;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      margin-top: 15px;
+      margin-bottom: 30px;
+    }
+
+    .laporan-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: sans-serif;
+      font-size: 14px;
+    }
+
+    .laporan-table th {
+      position: sticky;
+      top: 0;
+      background-color: #f8fafc;
+      padding: 10px;
+      border-bottom: 2px solid #e2e8f0;
+      text-align: left;
+      z-index: 5;
+    }
+
+    .laporan-table td {
+      padding: 10px;
+      border-bottom: 1px solid #f1f5f9;
+      word-wrap: break-word;
+    }
+
+
+    .wrapper-table-keterangan {
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    width: 100%;
+    max-height: 200px;  
+    overflow-y: auto;  
+    margin: 10px 0 50px 0; 
+    }
+
+    .table-keterangan {
+    width: 100%; 
+    font-family: sans-serif; 
+    font-size: 14px; 
+    border-collapse: collapse;
+    margin: 0;
+    }
+
+    .table-keterangan th {
+      border-bottom: 2px solid #e2e8f0;
+      padding: 10px 12px;
+      background-color: #f8fafc;
+      text-align: left;
+      position: sticky;
+      top: 0;
+    }
+
+    .table-keterangan th.head-keterangan {
+      text-align: center;
+      font-size: 15px;
+      font-weight: bold;
+      border-bottom: 1px solid #e2e8f0;
+      padding: 10px;
+      background-color: #f8fafc;
+
+    }
+
+    .table-keterangan th:first-child {
+      width: 25%;
+      border-right: 1px solid #e2e8f0;
+    }
+
+    .table-keterangan th:last-child {
+      width: 75%;
+    }
+
+    .table-keterangan td {
+      border-bottom: 1px solid #e2e8f0;
+      padding: 8px 12px;
+      text-align: left;
+    }
+
+    .table-keterangan tr:last-child td {
+      border-bottom: none; 
+    }
+
+    .wrapper-file {
+      text-align: center;
+      margin: 20px 0 30px 0;
+    }
+
+    .wrapper-file p {
+      font-size: 14px;
+      font-family: sans-serif;
+      font-weight: bold;
+    }
+  </style>
+
+  <article class="portal-murid" style="max-width: 800px; margin: 10px auto; padding: 0 10px;">
     
-      <img src="/images/vector_murid_akhwat.jpg" alt="Yustiwati, S.Pd" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
-    
-    
-    <div class="profile-bio">
-      <h1 style="margin: 0 0 8px 0;">Yustiwati, S.Pd</h1>
-      <div class="profile-bio-desc" style="text-align: left;">
-        <p style="margin: 4px 0;"><strong>Asal:</strong> Sukabumi</p>
-        <p style="margin: 4px 0;"><strong>Kegiatan sehari-hari: </strong> Ibu Rumah Tangga</p>
-        <p style="margin: 4px 0;"><strong>Pembimbing:</strong> Teuku Reza Pahlevi</p>
-        <p style="margin: 4px 0;"><strong>Bergabung:</strong> 1 Agustus 2026</p>
-        
-        <p style="margin: 4px 0;"><strong>Status:</strong> Aktif</p>
-        
+    <div class="header-portal-murid">
+    <img src="/images/logo-markaz-kaligrafi.jpg" alt="Lambang Markaz Imam Samannudi">
+    <h2>Markaz Imam Samannudi</h2>
+    <p>Catatan Bulanan Digital</p>
+  </div>
+
+
+    <div class="profile-card">
+      
+        <img src="/images/vector_murid_akhwat.jpg" alt="Yustiwati, S.Pd" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+      
+      
+      <div class="profile-bio">
+        <h1 style="margin: 0 0 8px 0; font-size: 22px;">Yustiwati, S.Pd</h1>
+        <table class="bio-table">
+            <tr>
+              <td class="label">Asal</td>
+              <td class="colon">:</td>
+              <td>Sukabumi</td>
+            </tr>
+            <tr>
+              <td class="label">Kegiatan</td>
+              <td class="colon">:</td>
+              <td>Ibu Rumah Tangga</td>
+            </tr>
+            <tr>
+              <td class="label">Pembimbing</td>
+              <td class="colon">:</td>
+              <td>Teuku Reza Pahlevi</td>
+            </tr>
+            <tr>
+              <td class="label">Bergabung</td>
+              <td class="colon">:</td>
+              <td>1 Agustus 2026</td>
+            </tr>
+            <tr>
+              <td class="label">Status</td>
+              <td class="colon">:</td>
+              <td>
+              
+                <strong style="color: #16a34a;">Aktif</strong>
+              
+            </td>
+            </tr>
+        </table>
       </div>
     </div>
-  </div>
-  <div class="header-content" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <h3> Catatan Harian </h3>
-    <hr>
-    <p> Keterangan Penilaian Tahfizh: </p>
-    <table style="width: 100%; font-family: sans-serif; margin: 10px 0; font-size: 15px;"> 
-      <thead>
-        <tr>
-          <th style="border: 1px solid #dddddd;  padding: 10px 12px;"> Predikat </th>
-          <th style="border: 1px solid #dddddd; padding: 10px 12px;"> Maksud </th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="border: 1px solid #dddddd;  padding: 10px 12px;"> A </td>
-          <td style="border: 1px solid #dddddd; text-align: left; padding: 10px 12px;"> Tanpa kesalahan sama sekali. </td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #dddddd;  padding: 10px 12px;"> B </td>
-          <td style="border: 1px solid #dddddd; text-align: left; padding: 10px 12px;"> Salah khafi (salah tanpa diberitahu) 1-3 kali. </td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #dddddd;  padding: 10px 12px;"> C </td>
-          <td style="border: 1px solid #dddddd; text-align: left; padding: 10px 12px;"> Salah khafi > 3 kali. </td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #dddddd;  padding: 10px 12px;"> D </td>
-          <td style="border: 1px solid #dddddd; text-align: left; padding: 10px 12px;"> Salah jali (salah dan diberitahu) 1-3 kali. </td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #dddddd;  padding: 10px 12px;"> E </td>
-          <td style="border: 1px solid #dddddd; text-align: left; padding: 10px 12px;"> Salah jali > 3 kali. </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  
-  <div class="content">
-    <div class="google-sheet-wrapper" style="position: relative; overflow: hidden; width: 100%; padding-top: 75%; border-radius: 8px; border: 1px solid #e5e7eb;">
-  <iframe 
-    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7p2cZY2jRLd0b5XVCQY2w52HJiq7O7o5qFDJExxw_PcbAaT-2uUiJz5D0aFr7TDYDTiM1qekZ6ycb/pubhtml?gid=361811307&amp;single=true" 
-    style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; border: none;"
-    allowfullscreen>
-  </iframe>
-</div>
 
-  </div>
+    
+    <div class="table-container">
+      <table class="laporan-table">
+        <thead>
+          <tr>
+            <th>Majlis</th>
+            <th>Tanggal</th>
+            <th>Jenis Laporan</th>
+            <th>Rincian Laporan</th>
+            <th>Nilai</th>
+            <th>Catatan Laporan</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+          <tr>
+            <td>1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          
+        </tbody>
+      </table>
+    </div>
 
-</article>
+    
+    <div class="wrapper-table-keterangan">
+      <table class="table-keterangan"> 
+        <thead>
+          <tr>
+            <th colspan="2" class="head-keterangan">
+              Keterangan Penilaian Tahfiz
+            </th>
+          </tr>
+          <tr>
+            <th >Predikat</th>
+            <th>Arti</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>A</td>
+            <td>Tanpa kesalahan sama sekali.</td>
+          </tr>
+          <tr>
+            <td>B</td>
+            <td>Salah khafi (salah tanpa diberitahu) 1-3 kali.</td>
+          </tr>
+          <tr>
+            <td>C</td>
+            <td>Salah khafi &gt; 3 kali.</td>
+          </tr>
+          <tr>
+            <td>D</td>
+            <td>Salah jali (salah dan diberitahu) 1-3 kali.</td>
+          </tr>
+          <tr>
+            <td>E</td>
+            <td>Salah jali &gt; 3 kali.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="wrapper-file">
+      <p> Download Sertifikat </p>
+      
+          <a href="https://drive.google.com/drive/folders/1rmQHLlcOF_Fgoa575--cmUssEPIvidsV?usp=drive_link" target="_blank" style=" display: inline-block; background: #2e7d32; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 14px; margin-top: 5px;">
+          📄 Unduh PDF
+          </a>
+      
+    </div>
+
+  </article>
 
     </main>
 

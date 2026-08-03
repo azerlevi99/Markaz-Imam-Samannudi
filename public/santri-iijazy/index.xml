@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Santri-Iijazies on My New Hugo Project</title>
+		<link>http://localhost:1313/santri-iijazy/</link>
+		<description>Recent content in Santri-Iijazies on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/santri-iijazy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Daffa Maulfi Sadath</title>
+				<link>http://localhost:1313/santri-iijazy/581351b0-20b0-4e98-bcbb-741d0fdf8650/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/santri-iijazy/581351b0-20b0-4e98-bcbb-741d0fdf8650/</guid>
+				<description>&lt;div class=&#34;table-container&#34;&gt;&#xA;  &lt;table class=&#34;laporan-table&#34;&gt;&#xA;    &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;        &lt;th&gt;Pekan&lt;/th&gt;&#xA;        &lt;th&gt;Tanggal&lt;/th&gt;&#xA;        &lt;th&gt;Jenis Laporan&lt;/th&gt;&#xA;        &lt;th&gt;Catatan Laporan&lt;/th&gt;&#xA;        &lt;th&gt;Nilai&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;1&lt;/td&gt;&#xA;        &lt;td&gt;01/08/2026&lt;/td&gt;&#xA;        &lt;td&gt;Tahfiz&lt;/td&gt;&#xA;        &lt;td&gt;QS. An-Naml ayat 56&lt;/td&gt;&#xA;        &lt;td&gt;A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+	</channel>
+</rss>
