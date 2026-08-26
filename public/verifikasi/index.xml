@@ -67,5 +67,19 @@
 				<guid>https://example.org/verifikasi/46af8244-8ea7-4cdf-b8b8-3e5750165e03/</guid>
 				<description></description>
 			</item>
+			<item>
+				<title>009/MIS/STF/VII/2026</title>
+				<link>https://example.org/verifikasi/4f9f4ab8-10c6-4216-8553-4c07e590e5d2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/verifikasi/4f9f4ab8-10c6-4216-8553-4c07e590e5d2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>010/MIS/STF/VII/2026</title>
+				<link>https://example.org/verifikasi/fa74fb83-9805-488f-9a5f-c7d99ed8741d/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/verifikasi/fa74fb83-9805-488f-9a5f-c7d99ed8741d/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>
