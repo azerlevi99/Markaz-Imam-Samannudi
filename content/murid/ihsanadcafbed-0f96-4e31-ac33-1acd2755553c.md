@@ -73,9 +73,23 @@ laporan:
   catatan_laporan: "-"
 
 - majlis: 10
-  tanggal: "26/08/2026 (15m)"
+  tanggal: "27/08/2026 (15m)"
   jenis_laporan: "Tahfiz - Muraja'ah"
   rincian_laporan: "QS. Al-A'raf ayat 171-206"
+  nilai: "B"
+  catatan_laporan: "-"
+
+- majlis: 11
+  tanggal: "31/08/2026 (15m)"
+  jenis_laporan: "Tahfiz - Muraja'ah"
+  rincian_laporan: "QS. Al-Anfal ayat 1-40"
+  nilai: "B"
+  catatan_laporan: "-"
+
+- majlis: 12
+  tanggal: "01/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. At-Taubah ayat 93-111"
   nilai: "B"
   catatan_laporan: "-"
 ---

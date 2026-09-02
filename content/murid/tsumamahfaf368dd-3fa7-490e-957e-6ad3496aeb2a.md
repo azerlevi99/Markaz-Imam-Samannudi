@@ -120,5 +120,12 @@ laporan:
   rincian_laporan: "QS. Az-Zukhruf ayat 11-89 | فصل في آداب المعلم"
   nilai: "B"
   catatan_laporan: "(1) Bayniyyah pada nun (كفرون). (2) Rikhawah pada sin (فاستمسك)."
+
+- majlis: 17
+  tanggal: "01/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Asy-Syura - Al-Jatsiyah | فصل في إعزاز العلم"
+  nilai: "B"
+  catatan_laporan: "(1) Hafalan masih banyak yang tersendat."
 ---
 
