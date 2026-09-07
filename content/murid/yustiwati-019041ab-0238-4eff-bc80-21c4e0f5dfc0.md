@@ -36,5 +36,12 @@ laporan:
   rincian_laporan: "QS. Al Baqarah ayat 120-135"
   nilai: "B"
   catatan_laporan: "(1) Khafa pada ha kurang dijelaskan (هذا)."
+
+- majlis: 5
+  tanggal: "03/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 136-141"
+  nilai: "B"
+  catatan_laporan: "(1) Durasi mad munfashil kurang (وما أوتي)"
 ---
 

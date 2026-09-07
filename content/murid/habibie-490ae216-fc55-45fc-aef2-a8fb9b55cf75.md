@@ -12,14 +12,28 @@ laporan:
 - majlis: 1
   tanggal: "1/9/2026 (30m)"
   jenis_laporan: "Tahfiz - Ziyadah"
-  rincian_laporan: "QS. Al-Fatihah - Al-Baqarah ayat"
+  rincian_laporan: "QS. Al-Fatihah - Al-Baqarah ayat 16"
   nilai: "A"
   catatan_laporan: "(1) Hams pada kaf."
 
 - majlis: 2
   tanggal: "2/9/2026 (15m)"
   jenis_laporan: "Tahfiz - Ziyadah"
-  rincian_laporan: "QS. Al-Baqarah ayat"
+  rincian_laporan: "QS. Al-Baqarah ayat 17-29"
   nilai: "A"
   catatan_laporan: "(1) Hams pada kaf. (2) Khafa pada ha (والحجارة). (3) Rikhwah pada ha (فأحياكم)."
+
+- majlis: 3
+  tanggal: "3/9/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 30-48"
+  nilai: "A"
+  catatan_laporan: "-"
+
+- majlis: 4
+  tanggal: "4/9/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 49-61"
+  nilai: "A"
+  catatan_laporan: "(1) Rikhawah pda ha (الرحمن)."
 ---

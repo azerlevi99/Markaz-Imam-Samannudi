@@ -127,5 +127,19 @@ laporan:
   rincian_laporan: "QS. Asy-Syura - Al-Jatsiyah | فصل في إعزاز العلم"
   nilai: "B"
   catatan_laporan: "(1) Hafalan masih banyak yang tersendat."
+
+- majlis: 18
+  tanggal: "02/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah"
+  rincian_laporan: "QS. Al-Ahqaf - Al-Fath ayat 9"
+  nilai: "B"
+  catatan_laporan: "-"
+
+- majlis: 19
+  tanggal: "03/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah"
+  rincian_laporan: "QS. Al-Fath ayat 10 - Adz-Dzariyat ayat 30"
+  nilai: "B"
+  catatan_laporan: "-"
 ---
 
