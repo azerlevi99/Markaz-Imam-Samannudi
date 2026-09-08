@@ -141,5 +141,12 @@ laporan:
   rincian_laporan: "QS. Al-Fath ayat 10 - Adz-Dzariyat ayat 30"
   nilai: "B"
   catatan_laporan: "-"
+
+- majlis: 20
+  tanggal: "08/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Fatihah - Al-Baqarah ayat 37"
+  nilai: "B"
+  catatan_laporan: "(1) Itmam Harakat. (2) Waw monyong (وما يشعرون). (3) Alif ikut tafkhim (أضاءت). (4) Ithbaq pada zha (أظلم)."
 ---
 

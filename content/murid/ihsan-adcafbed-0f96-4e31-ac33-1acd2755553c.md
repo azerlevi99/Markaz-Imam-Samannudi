@@ -99,5 +99,12 @@ laporan:
   rincian_laporan: "QS. At-Taubah ayat 112-129"
   nilai: "A"
   catatan_laporan: "-"
+
+- majlis: 14
+  tanggal: "08/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Yunus ayat 1-6"
+  nilai: "A"
+  catatan_laporan: "-"
 ---
 

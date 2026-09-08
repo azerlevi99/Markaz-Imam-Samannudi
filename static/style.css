@@ -96,7 +96,7 @@ header svg {
 .tentang {
     background-color: #00008B;
     color: aliceblue;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 
 .tentang .container > h1{
@@ -145,7 +145,7 @@ header svg {
 
 .tentang-box .struktur {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 }
 
@@ -217,7 +217,7 @@ header svg {
 }
 
 @media (max-width: 475px) {
-    .tentang-box .box:nth-child(2) .struktur {
+    .tentang-box .struktur {
         grid-template-columns: 1fr;
     }
 }
