@@ -106,5 +106,12 @@ laporan:
   rincian_laporan: "QS. Yunus ayat 1-6"
   nilai: "A"
   catatan_laporan: "-"
+
+- majlis: 15
+  tanggal: "09/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Yunus ayat 7-25"
+  nilai: "B"
+  catatan_laporan: "(1) Hams pada ta (وتحيتهم). (2) Tidak ada ikhtilas (ولو). (3) Tidak ada qalqalah pada (تتلى). "
 ---
 

@@ -148,5 +148,12 @@ laporan:
   rincian_laporan: "QS. Al-Fatihah - Al-Baqarah ayat 37"
   nilai: "B"
   catatan_laporan: "(1) Itmam Harakat. (2) Waw monyong (وما يشعرون). (3) Alif ikut tafkhim (أضاءت). (4) Ithbaq pada zha (أظلم)."
+
+- majlis: 21
+  tanggal: "09/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Baqarah ayat 38-76 B | فصل في آداب الدخول إلى مجلس العلم"
+  nilai: "B"
+  catatan_laporan: "(1) Itmam harakat kasrah dan dhammah. (2) Hams pda fa (نفس). (3) Rikhawah pada dzal (وإذ). (4) Tidak ada qalqalah pada ha (جهرة). (5) Penyempurnaan monyong pada waw (عليكم ورحمته)."
 ---
 
