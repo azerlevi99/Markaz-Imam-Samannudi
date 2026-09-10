@@ -152,8 +152,15 @@ laporan:
 - majlis: 21
   tanggal: "09/09/2026 (40m)"
   jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
-  rincian_laporan: "QS. Al-Baqarah ayat 38-76 B | فصل في آداب الدخول إلى مجلس العلم"
+  rincian_laporan: "QS. Al-Baqarah ayat 38-76 | فصل في آداب الدخول إلى مجلس العلم"
   nilai: "B"
   catatan_laporan: "(1) Itmam harakat kasrah dan dhammah. (2) Hams pda fa (نفس). (3) Rikhawah pada dzal (وإذ). (4) Tidak ada qalqalah pada ha (جهرة). (5) Penyempurnaan monyong pada waw (عليكم ورحمته)."
+
+- majlis: 22
+  tanggal: "10/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Baqarah ayat 77-101 | فصل في آداب طالب العلم مع رفاقه"
+  nilai: "B"
+  catatan_laporan: "(1) Tidak ada qalqalah pada dzal (وإذ أخذنا). (2) Itmam harakat kasrah (أشد العذاب). (3) Tidak ada ikhtilas pada (أنزل الله). (4) Durasi huruf bertasydid berbeda dgn huruf tidak bertasydid (مصدق)."
 ---
 

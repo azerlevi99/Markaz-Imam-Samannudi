@@ -50,4 +50,11 @@ laporan:
   rincian_laporan: "QS. Al-Baqarah ayat 77-88"
   nilai: "A"
   catatan_laporan: "(1) Rikhawah pada kha (ولا تخرجون)."
+
+- majlis: 7
+  tanggal: "10/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 89-101"
+  nilai: "A"
+  catatan_laporan: "(1) Monyong pada dhammah (أنزل)."
 ---
