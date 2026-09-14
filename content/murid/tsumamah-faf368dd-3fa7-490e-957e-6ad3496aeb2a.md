@@ -162,5 +162,12 @@ laporan:
   rincian_laporan: "QS. Al-Baqarah ayat 77-101 | فصل في آداب طالب العلم مع رفاقه"
   nilai: "B"
   catatan_laporan: "(1) Tidak ada qalqalah pada dzal (وإذ أخذنا). (2) Itmam harakat kasrah (أشد العذاب). (3) Tidak ada ikhtilas pada (أنزل الله). (4) Durasi huruf bertasydid berbeda dgn huruf tidak bertasydid (مصدق)."
+
+- majlis: 23
+  tanggal: "11/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Baqarah ayat 102-126 | "
+  nilai: "B"
+  catatan_laporan: "(1) Mulut kembali pada posisinya setelah monyong (أنزل)."
 ---
 

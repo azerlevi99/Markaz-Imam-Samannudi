@@ -38,10 +38,17 @@ laporan:
   catatan_laporan: "(1) Khafa pada ha kurang dijelaskan (هذا)."
 
 - majlis: 5
-  tanggal: "03/09/2026 (15m)"
+  tanggal: "03/09/2026 (10m)"
   jenis_laporan: "Tahfiz - Ziyadah"
   rincian_laporan: "QS. Al-Baqarah ayat 136-141"
   nilai: "B"
   catatan_laporan: "(1) Durasi mad munfashil kurang (وما أوتي)"
+
+- majlis: 5
+  tanggal: "10/09/2026 (10m)"
+  jenis_laporan: "Tahfiz - Murojaah"
+  rincian_laporan: "QS. Al-Baqarah ayat 70-93"
+  nilai: "B"
+  catatan_laporan: "-"
 ---
 
