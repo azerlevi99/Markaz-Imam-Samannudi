@@ -294,6 +294,16 @@ header svg {
     background-color: #00d6b2;
 }
 
+.kelas-box .kelas-desc .kelas-btn .disabled {
+    background-color: #e0e0e0;
+    color: #a0a0a0;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    pointer-events: none;
+    cursor: not-allowed;
+}
+
 .kelas-box .box:nth-child(1) .kelas-desc {
     margin-top: 30px;
 }
