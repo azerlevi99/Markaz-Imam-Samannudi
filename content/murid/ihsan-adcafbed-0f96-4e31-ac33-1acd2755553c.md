@@ -113,5 +113,12 @@ laporan:
   rincian_laporan: "QS. Yunus ayat 7-25"
   nilai: "B"
   catatan_laporan: "(1) Hams pada ta (وتحيتهم). (2) Tidak ada ikhtilas (ولو). (3) Tidak ada qalqalah pada (تتلى). "
+
+- majlis: 16
+  tanggal: "17/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Yunus ayat 62-88"
+  nilai: "B"
+  catatan_laporan: "(1) Istithalah dhad (في الأرض). (2) Ghunnah pada ikhfa (ءامنتم بالله). (3) Jangan ikhtilash di fa (فلا يؤمنوا)."
 ---
 

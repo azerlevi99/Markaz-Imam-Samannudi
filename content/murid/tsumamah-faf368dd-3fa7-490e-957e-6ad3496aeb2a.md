@@ -169,5 +169,33 @@ laporan:
   rincian_laporan: "QS. Al-Baqarah ayat 102-126 | "
   nilai: "B"
   catatan_laporan: "(1) Mulut kembali pada posisinya setelah monyong (أنزل)."
+
+- majlis: 24
+  tanggal: "14/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah"
+  rincian_laporan: "QS. Al-Baqarah ayat 127-141"
+  nilai: "B"
+  catatan_laporan: "(1) Rikhawah sin (ولا تسئلون). (2) Tidak ada tamthith (به)."
+
+- majlis: 25
+  tanggal: "15/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Baqarah ayat 142-169 | فصل في اختيار أفضل أوقات الشيخ وفي الصبر على العلم"
+  nilai: "B"
+  catatan_laporan: "(1) Ghunnah pada nun bertasydid (فلنولينك). (2) Takrir pada ra dikurangi (قدير). (3) Itmam harakat kasrah (واخشوني)."
+
+- majlis: 26
+  tanggal: "16/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Baqarah ayat 170-190 | فضل في التبكير بالقراءة وفي نفس الحسد والعجب"
+  nilai: "B"
+  catatan_laporan: "(1) Hams pada kaf (بكم). (2) Itmam harakat dhammah pada waw (اشتروا الضللة). (3) Tarqiq pada nun (إن الله)."
+
+- majlis: 27
+  tanggal: "17/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Baqarah ayat | Sard Tibyan (Murojaah)"
+  nilai: "B"
+  catatan_laporan: "((1) Tidak ada nabr dlm waqaf (لله)."
 ---
 
