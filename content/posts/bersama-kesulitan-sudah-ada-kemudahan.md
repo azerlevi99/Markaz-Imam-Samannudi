@@ -1,5 +1,5 @@
 +++
-date = '2026-08-09T06:35:57+07:00'
+date = '2026-09-20T06:35:57+07:00'
 draft = false
 title = 'Bersama Kesulitan Sudah Ada Kemudahan'
 tags = ['Tafsir']
