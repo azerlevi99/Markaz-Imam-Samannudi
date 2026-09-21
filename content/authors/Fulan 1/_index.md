@@ -1,6 +1,6 @@
 ---
-title: "Fulan 1"
-role: "Soon"
-avatar: "/images/unknown_person.png"
-bio: "Soon"
+title: "Isa Ibnu Rizal"
+role: "Kontributor Eksternal"
+avatar: "/images/foto-isa-ibnu-rizal.jpg"
+bio: "Menikmati Ilmu, Bahasa, dan Sejarah Masa Lampau. 📚🌿"
 ---
