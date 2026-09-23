@@ -120,5 +120,12 @@ laporan:
   rincian_laporan: "QS. Yunus ayat 62-88"
   nilai: "B"
   catatan_laporan: "(1) Istithalah dhad (في الأرض). (2) Ghunnah pada ikhfa (ءامنتم بالله). (3) Jangan ikhtilash di fa (فلا يؤمنوا)."
+
+- majlis: 17
+  tanggal: "22/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Yunus ayat 89 - Hud ayat 5"
+  nilai: "B"
+  catatan_laporan: "(1) Tidak monyong pada waqaf dengan sukun (الصدور)."
 ---
 

@@ -194,8 +194,29 @@ laporan:
 - majlis: 27
   tanggal: "17/09/2026 (40m)"
   jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
-  rincian_laporan: "QS. Al-Baqarah ayat | Sard Tibyan (Murojaah)"
+  rincian_laporan: "QS. Al-Baqarah ayat 191-215 | Sard Tibyan (Murojaah)"
   nilai: "B"
-  catatan_laporan: "((1) Tidak ada nabr dlm waqaf (لله)."
+  catatan_laporan: "(1) Tidak ada nabr dlm waqaf (لله)."
+
+- majlis: 28
+  tanggal: "21/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Baqarah ayat 216-233 | Ujian Bab 1-4 "
+  nilai: "B"
+  catatan_laporan: "(1) Waqf tanpa qalqalah pada (من القتل). next (2) Rikhawah pada sin (يسئلونك). (3) Tidak ada ikhtilas pada ba (أكبر من نفعهما)."
+
+- majlis: 29
+  tanggal: "22/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Baqarah ayat 234-252 | "
+  nilai: "B"
+  catatan_laporan: "(1) Mad jaiz kurang (وأن تعفوا أقرب). (2) Waqaf pada yang bertasydid perlu diperhatikan durasiny (بالحق)."
+
+- majlis: 30
+  tanggal: "23/09/2026 (40m)"
+  jenis_laporan: "izin"
+  rincian_laporan: "Sakit"
+  nilai: "B"
+  catatan_laporan: "-"
 ---
 

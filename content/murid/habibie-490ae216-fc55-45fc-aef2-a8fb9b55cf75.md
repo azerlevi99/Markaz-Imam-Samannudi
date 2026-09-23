@@ -57,4 +57,18 @@ laporan:
   rincian_laporan: "QS. Al-Baqarah ayat 89-101"
   nilai: "A"
   catatan_laporan: "(1) Monyong pada dhammah (أنزل)."
+
+- majlis: 8
+  tanggal: "21/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 102-126"
+  nilai: "A"
+  catatan_laporan: "-"
+
+- majlis: 9
+  tanggal: "22/09/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 127-141"
+  nilai: "A"
+  catatan_laporan: "-"
 ---
