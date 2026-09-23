@@ -15,7 +15,7 @@ Allah ta’ala berfirman :
 Dalam ayat ini terdapat kisah yang menakjubkan. Yang mana itu menjadi sebab turunnya kedua ayat ini.
 Kisah itu terkenal dengan EKSPEDISI AL-KHABATH. Ketika itu Nabi ﷺ  mengutus 300 pasukan dengan komando Abu Ubaidah Bin Al-Jarrah. Tujuan utamanya adalah untuk menghadapi kaum musyrikin di wilayah pesisir. Sekaligus menjaga keamanan dan posisi kaum muslimin.
 Yang membuat kisah ini masyhur bukan karena jumlah pasukannya. Tapi, dimana saat itu para sahabat hanya membawa sedikit perbekalan. Dan ketika persediaan mereka sudah habis para sahabat sampai-sampai memakan dedaunan kering yang jatuh. Karena ini ekspedisi tersebut dinamakan (Al-Khabath) yang artinya dedaunan kering yang jatuh.
-Sebelum keberangkatan, sebenarnya para sahabat sudah meminta tambahan pasokan kepada Nabi ﷺ. Akan tetapi beliau mengatakan. “Jika saja aku memiliki kelebihan pasokan, maka aku akan tambahkan.”maka mereka beranjak setelah mendengar itu. Setelah beberapa saat, Nabi mengutus sahabat untuk membawa berita untuk mereka. Bahwasanya telah turun ayat kepada Nabi yaitu ayat yang sudah kita sebutkan. Dan Allah menepati janjinya dengan mereka menemukan bankai ikan yang sangat besar. Sampai seluruh prajurit kebagian semua. Bahkan, mereka membawanya kepada Nabi ﷺ.*[^1]*
+Sebelum keberangkatan, sebenarnya para sahabat sudah meminta tambahan pasokan kepada Nabi ﷺ. Akan tetapi beliau mengatakan. “Jika saja aku memiliki kelebihan pasokan, maka aku akan tambahkan.”maka mereka beranjak setelah mendengar itu. Setelah beberapa saat, Nabi mengutus sahabat untuk membawa berita untuk mereka. Bahwasanya telah turun ayat kepada Nabi yaitu ayat yang sudah kita sebutkan. Dan Allah menepati janjinya dengan mereka menemukan bankai ikan yang sangat besar. Sampai seluruh prajurit kebagian semua. Bahkan, mereka membawanya kepada Nabi shallallahu 'alaihi wa sallam. *[^1]*
 
 Dalam ayat ini pula terdapat tafsiran yang sangat luar biasa. Membuat kita sadar bahwa Al-quran lebih dari sekedar kata sempurna. Mari aku akan menjelaskannya secara sederhana.
 
@@ -36,7 +36,7 @@ Kemudian mengulangi nya :
 
 Seakan-akan Allah mengatakan, janji Allah benar-benar akan terlaksana.
 
-Pengulangan dalam bahasa arab biasa disebut taukid(توكيد) *[^2]*. Digunakan untuk menegaskan suatu dengan sangat kuat.
+Pengulangan dalam bahasa arab biasa disebut taukid (توكيد). *[^2]* Digunakan untuk menegaskan suatu dengan sangat kuat.
 
 ## Perhatikan! Yang diulang adalah العسر dengan (ال). Sedangkan يسرا ditulis dengan dengan bentuk nakirah.
 
