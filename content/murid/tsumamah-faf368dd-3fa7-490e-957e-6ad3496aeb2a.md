@@ -213,10 +213,11 @@ laporan:
   catatan_laporan: "(1) Mad jaiz kurang (وأن تعفوا أقرب). (2) Waqaf pada yang bertasydid perlu diperhatikan durasiny (بالحق)."
 
 - majlis: 30
-  tanggal: "23/09/2026 (40m)"
-  jenis_laporan: "izin"
-  rincian_laporan: "Sakit"
-  nilai: "B"
-  catatan_laporan: "-"
+  tanggal: "24/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ujian | At-Tibyan"
+  rincian_laporan: "Juz 26-30 & 1-2 | "
+  nilai: "Jayyid"
+  catatan_laporan: "Juz 25 dan 28 diulang kembali setorannya. Hafalannya dijaga."
+
 ---
 
