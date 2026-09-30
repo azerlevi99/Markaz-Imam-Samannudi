@@ -219,5 +219,26 @@ laporan:
   nilai: "Jayyid"
   catatan_laporan: "Juz 25 dan 28 diulang kembali setorannya. Hafalannya dijaga."
 
+- majlis: 31
+  tanggal: "28/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: " QS. Fussilat ayat 47 - Asy-Syuro ayat 31 | فصل في الكلام عن ختم القرآن في مدة معينة"
+  nilai: "B"
+  catatan_laporan: "(1) Qaf tidak punya hams (أنه الحق). (2) Tidak ada mad stlh hamzah pertama (أهوائهم). (3) Qalqalah tidak mad (نصيب)."
+
+- majlis: 32
+  tanggal: "29/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Asy-Syuro ayat 32 - Az-Zukhruf ayat 33| فصل في الكلام عن ختم القرآن في مدة معينة"
+  nilai: "B"
+  catatan_laporan: "-"
+
+- majlis: 33
+  tanggal: "30/09/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Az-Zukhruf ayat 33-89 |  فصل في الكلام عن ختم القرآن في مدة معينة "
+  nilai: "B"
+  catatan_laporan: "(1) Kasrah kurang semmpurna (خلدون)."
+
 ---
 
