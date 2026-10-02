@@ -44,11 +44,25 @@ laporan:
   nilai: "B"
   catatan_laporan: "(1) Durasi mad munfashil kurang (وما أوتي)"
 
-- majlis: 5
+- majlis: 6
   tanggal: "10/09/2026 (10m)"
   jenis_laporan: "Tahfiz - Murojaah"
   rincian_laporan: "QS. Al-Baqarah ayat 70-93"
   nilai: "B"
   catatan_laporan: "-"
+
+- majlis: 7
+  tanggal: "24/09/2026 (10m)"
+  jenis_laporan: "Tahfiz - Murojaah"
+  rincian_laporan: "QS. Al-Baqarah ayat 94-112"
+  nilai: "B"
+  catatan_laporan: "-"
+
+- majlis: 8
+  tanggal: "01/10/2026 (15m)"
+  jenis_laporan: "Tahfiz - Murojaah"
+  rincian_laporan: "QS. Al-Baqarah ayat "
+  nilai: "B"
+  catatan_laporan: "(1) Kha tidak keluar dari makhrajnya (واتخذوا)."
 ---
 
