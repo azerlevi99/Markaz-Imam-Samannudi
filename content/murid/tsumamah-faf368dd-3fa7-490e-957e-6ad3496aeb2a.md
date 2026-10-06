@@ -240,5 +240,26 @@ laporan:
   nilai: "B"
   catatan_laporan: "(1) Kasrah kurang semmpurna (خلدون)."
 
+- majlis: 34
+  tanggal: "01/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Ad-Dukhan - Al-Jatsiyah | فصل في الأمر بتعهد القرآن والتحذير عن تعريضه للنسيان "
+  nilai: "B"
+  catatan_laporan: "(1) Penyempurnaan waw kurang (ومماتهم)."
+
+- majlis: 35
+  tanggal: "05/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS. Al-Mujadalah - Al-Hasyr ayat 9 |  فصل في من نام عن ورده - فصل في استحباب السواك"
+  nilai: "B"
+  catatan_laporan: "(1) Mad 'aridh jangan dibaca 3 hrkt (ونسوه). (2) dlm keadaan waqf, kasih rikhawah syin dan bayniyyah ra (الحشر). (3) Ghunnah di mim kurang (أنهم مانعتهم)."
+
+- majlis: 36
+  tanggal: "06/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS.  Al-Hasyr ayat 10 - Al-Mumtahanah |  "
+  nilai: "B"
+  catatan_laporan: "(1) Itmam dhammah (الأمثلُ). (2) Isti'la qaf (الحقِ). (3) Durasi ikhfa yang setelahnya kaf lebih lama (تنكحوهن)."
+
 ---
 
