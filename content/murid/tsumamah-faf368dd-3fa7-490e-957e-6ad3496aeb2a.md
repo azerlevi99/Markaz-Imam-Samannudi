@@ -261,5 +261,33 @@ laporan:
   nilai: "B"
   catatan_laporan: "(1) Itmam dhammah (الأمثلُ). (2) Isti'la qaf (الحقِ). (3) Durasi ikhfa yang setelahnya kaf lebih lama (تنكحوهن)."
 
+- majlis: 37
+  tanggal: "07/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | At-Tibyan"
+  rincian_laporan: "QS.   |  "
+  nilai: "B"
+  catatan_laporan: "(1) Itmam waw (ومبشرا). (2) Itmam Kasrah (افترى على اللهِ الكذب). (3) Rikhawah zha (ليظهره)."
+
+- majlis: 38
+  tanggal: "12/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah | Ar-Risalah"
+  rincian_laporan: "QS. Al-Baqarah ayat 253-269 |  Mukaddimah Penulis"
+  nilai: "B"
+  catatan_laporan: "(1) Mad 'aridh jangan dibaca 3 harakat. (2) Tidak ada qalqalah pada hamzah sukun (لا تأخذه). (3) Ghunnah pada nun (النار)."
+
+- majlis: 39
+  tanggal: "13/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah | Ar-Risalah"
+  rincian_laporan: "QS. Al-Baqarah ayat 270-286 | Rukun Islam "
+  nilai: "B"
+  catatan_laporan: "(1) Ya stlh syin (الشيطن). (2) Tidak berlebihan dalam izhar khafa ha (سفيها). (3) Hams kaf (ويعلمكم الله)."
+
+- majlis: 40
+  tanggal: "15/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah | Ar-Risalah"
+  rincian_laporan: "QS. Ali 'Imran ayat 1-29 |  Akidah Islam"
+  nilai: "C"
+  catatan_laporan: "(1) Itmam dhammah kurang. (2) Ithbaq pd tha (بالقسط). (3) Tarqiq pada ba (أو تبدوه)."
+
 ---
 
