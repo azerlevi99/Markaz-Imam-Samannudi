@@ -61,8 +61,22 @@ laporan:
 - majlis: 8
   tanggal: "01/10/2026 (15m)"
   jenis_laporan: "Tahfiz - Murojaah"
-  rincian_laporan: "QS. Al-Baqarah ayat "
+  rincian_laporan: "QS. Al-Baqarah ayat 113-141"
   nilai: "B"
   catatan_laporan: "(1) Kha tidak keluar dari makhrajnya (واتخذوا)."
+
+- majlis: 9
+  tanggal: "08/10/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 142-163 "
+  nilai: "B"
+  catatan_laporan: "(1) Ghunnah kurang (من بعد)."
+
+- majlis: 10
+  tanggal: "15/10/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 164-181"
+  nilai: "B"
+  catatan_laporan: "(1) Ghunnah kurang (بأن الله)."
 ---
 
