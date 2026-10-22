@@ -289,5 +289,26 @@ laporan:
   nilai: "C"
   catatan_laporan: "(1) Itmam dhammah kurang. (2) Ithbaq pd tha (بالقسط). (3) Tarqiq pada ba (أو تبدوه)."
 
+- majlis: 41
+  tanggal: "19/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah | Ar-Risalah"
+  rincian_laporan: "QS. Ali 'Imran ayat 30-61 |  Akidah Islam"
+  nilai: "C"
+  catatan_laporan: "(1) Rikhawah dzal (إذ يختصمون). (2) Itmam kasrah (من الطِّين). (3) Rikhawah kha (تختلفون)."
+
+- majlis: 42
+  tanggal: "21/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah | Ar-Risalah"
+  rincian_laporan: "QS. Ali 'Imran ayat 62-92 |  Akidah Islam"
+  nilai: "B"
+  catatan_laporan: "(1) Rikhawah sin (مسلما). (2) Tidak ada qalqalah pada hamzah. "
+
+- majlis: 43
+  tanggal: "22/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ujian | Ar-Risalah"
+  rincian_laporan: "Juz 25-30 & 1-3 |  Akidah Islam"
+  nilai: "72.4 (Jayyid)"
+  catatan_laporan: "Mengulang setoran juz 25 dan 26, karena nilai dibawah nilai minimal di 2 juz ini. Waffaqakallah."
+
 ---
 

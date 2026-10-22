@@ -5,7 +5,7 @@ Asal: "Kota Pemalang"
 Kegiatan_sehari_hari: "Pengajar Tahsin"
 pembimbing: "Ust. Teuku Reza Pahlevi"
 Bergabung: "1 September 2026"
-Status: "Aktif"
+Status: "Non Aktif"
 pdf_url: "https://drive.google.com/drive/folders/1EV3NSJY7fdAu57cEeOzm5Qi9OC6m20B2?usp=drive_link" 
 
 laporan:

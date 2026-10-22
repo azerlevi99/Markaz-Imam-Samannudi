@@ -127,5 +127,12 @@ laporan:
   rincian_laporan: "QS. Yunus ayat 89 - Hud ayat 5"
   nilai: "B"
   catatan_laporan: "(1) Tidak monyong pada waqaf dengan sukun (الصدور)."
+
+- majlis: 18
+  tanggal: "20/10/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ujian"
+  rincian_laporan: "Juz 1-11"
+  nilai: "98.4 (Mumtaz)"
+  catatan_laporan: "Dilanjut ke juz berikutnya. Barakallahu fiik."
 ---
 
