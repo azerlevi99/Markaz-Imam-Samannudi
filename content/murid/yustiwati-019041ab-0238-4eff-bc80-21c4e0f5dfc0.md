@@ -78,5 +78,12 @@ laporan:
   rincian_laporan: "QS. Al-Baqarah ayat 164-181"
   nilai: "B"
   catatan_laporan: "(1) Ghunnah kurang (بأن الله)."
+
+- majlis: 11
+  tanggal: "22/10/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 182-196"
+  nilai: "B"
+  catatan_laporan: "(1) Waqf pada (القتل) tanpa qalqalah. (2) Hams ta (المتقين)."
 ---
 
