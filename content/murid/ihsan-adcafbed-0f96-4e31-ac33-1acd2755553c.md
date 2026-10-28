@@ -132,7 +132,21 @@ laporan:
   tanggal: "20/10/2026 (15m)"
   jenis_laporan: "Tahfiz - Ujian"
   rincian_laporan: "Juz 1-11"
-  nilai: "98.4 (Mumtaz)"
+  nilai: "Mumtaz"
   catatan_laporan: "Dilanjut ke juz berikutnya. Barakallahu fiik."
+
+- majlis: 19
+  tanggal: "22/10/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Hud ayat 6-31"
+  nilai: "B"
+  catatan_laporan: "(1) Tidak ada ikhtilas di 'ain (عرشه). (2) Sempurnakan waw (وحاق). (3) Tidak monyong pada ra sukun ( ومن يكفرْ)."
+
+- majlis: 20
+  tanggal: "27/10/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: " QS. Hud ayat 32-57"
+  nilai: "A"
+  catatan_laporan: "(1) Itmam dhammah (ترجعون). (2) Khafa ha (منه)."
 ---
 

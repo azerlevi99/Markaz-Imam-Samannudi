@@ -307,8 +307,29 @@ laporan:
   tanggal: "22/10/2026 (40m)"
   jenis_laporan: "Tahfiz - Ujian | Ar-Risalah"
   rincian_laporan: "Juz 25-30 & 1-3 |  Akidah Islam"
-  nilai: "72.4 (Jayyid)"
+  nilai: "Jayyid"
   catatan_laporan: "Mengulang setoran juz 25 dan 26, karena nilai dibawah nilai minimal di 2 juz ini. Waffaqakallah."
+
+- majlis: 44
+  tanggal: "26/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah"
+  rincian_laporan: "QS. Fussilat ayat 37 - Asy-Syura ayat 31 |  Rukun Wudhu"
+  nilai: "B"
+  catatan_laporan: "(1) Tarqiq fa (يتفطرن). (2) Ithbaq dhad (لقضي)."
+
+- majlis: 45
+  tanggal: "27/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah"
+  rincian_laporan: "QS. Asy-Syura ayat 32 - Az-Zukhruf ayat 33 |  Rukun Wudhu"
+  nilai: "B"
+  catatan_laporan: "(1) 'Ain kurang tepat makhrajnya (عزم)."
+
+- majlis: 46
+  tanggal: "28/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah"
+  rincian_laporan: "QS. Az-Zukhruf ayat 33-89 |  Rukun Wudhu & Rukun Mandi"
+  nilai: "B"
+  catatan_laporan: "(1) Ghunnah tebal (ينظرون). (2) Dal sukun tdk monyong (ادخلوا)."
 
 ---
 
