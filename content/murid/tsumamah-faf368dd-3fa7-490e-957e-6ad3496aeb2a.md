@@ -327,9 +327,16 @@ laporan:
 - majlis: 46
   tanggal: "28/10/2026 (40m)"
   jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah"
-  rincian_laporan: "QS. Az-Zukhruf ayat 33-89 |  Rukun Wudhu & Rukun Mandi"
+  rincian_laporan: "QS. Az-Zukhruf ayat 33-89 | Rukun Wudhu & Rukun Mandi"
   nilai: "B"
   catatan_laporan: "(1) Ghunnah tebal (ينظرون). (2) Dal sukun tdk monyong (ادخلوا)."
+
+- majlis: 47
+  tanggal: "30/10/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah"
+  rincian_laporan: "QS. Ad-Dukhan ayat 1 - Al-Jatsiyah | Pembatal Wudhu"
+  nilai: "B"
+  catatan_laporan: "-"
 
 ---
 

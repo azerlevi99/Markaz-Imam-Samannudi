@@ -145,8 +145,15 @@ laporan:
 - majlis: 20
   tanggal: "27/10/2026 (15m)"
   jenis_laporan: "Tahfiz - Ziyadah"
-  rincian_laporan: " QS. Hud ayat 32-57"
+  rincian_laporan: "QS. Hud ayat 32-57"
   nilai: "A"
   catatan_laporan: "(1) Itmam dhammah (ترجعون). (2) Khafa ha (منه)."
+
+- majlis: 21
+  tanggal: "29/10/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Hud ayat 58-81"
+  nilai: "A"
+  catatan_laporan: "(1) Rikhawh ghain (فاستغفروه). (2) Itmam dhammah dan tidak ada monyong ketika ghunnah (كنت)."
 ---
 
