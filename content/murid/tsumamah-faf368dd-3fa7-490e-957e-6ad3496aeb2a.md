@@ -338,5 +338,26 @@ laporan:
   nilai: "B"
   catatan_laporan: "-"
 
+- majlis: 48
+  tanggal: "02/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah (Hafalan & Syarh)"
+  rincian_laporan: "QS. Al-Ahqaf ayat 1-35 | Dari (وينقض الوضوء الخارج) sampai (من الأرض) & dari (وينقض الوضوء مس) sampai (فلا ينقض الوضوء)."
+  nilai: "B"
+  catatan_laporan: "(1) Rikhawah ha (وأصلح لي). (2) Dhammah sempurnakan, dan takrir ra jangan berlebihan (واذكر). (3) Tidak monyong ketika ghunnah (كنتم)."
+
+- majlis: 49
+  tanggal: "03/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah (Hafalan & Syarh)"
+  rincian_laporan: "QS. Muhammad ayat 1 - Al-Fath ayat 9 | Dari (وينقض الوضوء مس) sampai (فلا ينقض الوضوء) & dari (ويشترط لصحة الصلاة) sampai (لم تصح صلاته)."
+  nilai: "B"
+  catatan_laporan: "(1) Bayniyyah lam (يبخل)."
+
+- majlis: 50
+  tanggal: "04/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah (Hafalan & Syarh)"
+  rincian_laporan: "QS. Al-Fath ayat 10 - Al-Hujurat ayat 11 | dari (ويشترط لصحة الصلاة) sampai (لم تصح صلاته) & dari (ويشترط معرفة القبلة) sampai (طاهر مباح)"
+  nilai: "B"
+  catatan_laporan: "(1) Qaf tasydid ditahan dulu (أحقَّ)."
+
 ---
 

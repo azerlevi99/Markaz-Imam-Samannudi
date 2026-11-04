@@ -155,5 +155,12 @@ laporan:
   rincian_laporan: "QS. Hud ayat 58-81"
   nilai: "A"
   catatan_laporan: "(1) Rikhawh ghain (فاستغفروه). (2) Itmam dhammah dan tidak ada monyong ketika ghunnah (كنت)."
+
+- majlis: 22
+  tanggal: "03/11/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Hud ayat 82-107"
+  nilai: "A"
+  catatan_laporan: "-"
 ---
 
