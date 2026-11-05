@@ -359,5 +359,12 @@ laporan:
   nilai: "B"
   catatan_laporan: "(1) Qaf tasydid ditahan dulu (أحقَّ)."
 
+- majlis: 51
+  tanggal: "05/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah (Hafalan & Syarh)"
+  rincian_laporan: "Tsumamah QS. Al-Hujurat ayat 12 - Adz-Dzariyat ayat 30 | dari (ويشترط معرفة القبلة) sampai (قائما) & dari (ويجب رفع النجاسة) sampai (النية)"
+  nilai: "B"
+  catatan_laporan: "(1) Tidak monyong pada huruf sukun, walaupun dalam huruf yg bertasydid (يمنّون). (2) Bayniyyah ra (فذكر بالقرآن)."
+
 ---
 

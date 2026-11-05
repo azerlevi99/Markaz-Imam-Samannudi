@@ -85,5 +85,12 @@ laporan:
   rincian_laporan: "QS. Al-Baqarah ayat 182-196"
   nilai: "B"
   catatan_laporan: "(1) Waqf pada (القتل) tanpa qalqalah. (2) Hams ta (المتقين)."
+
+- majlis: 12
+  tanggal: "05/11/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Baqarah ayat 197-215"
+  nilai: "B"
+  catatan_laporan: "(1) Kha pada (خطوت). (2) Hams ta (والذين انقوا)."
 ---
 

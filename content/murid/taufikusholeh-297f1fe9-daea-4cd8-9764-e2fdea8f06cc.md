@@ -11,9 +11,9 @@ pdf_url: "https://drive.google.com/drive/folders/14NrGZMjAtCjpNrQBkBdXeCERvEFcfZ
 laporan:
 - majlis: 1
   tanggal: "05/11/2026 (30m)"
-  jenis_laporan: ""
-  rincian_laporan: ""
-  nilai: ""
-  catatan_laporan: ""
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Al-Fatihah - Al-Baqarah ayat 19"
+  nilai: "B"
+  catatan_laporan: "(1) Ra tidak monyong (الرحمن). (2) Ghunnah nun dan mim bertasydid kurang (ومما رزقنهم). "
 
 ---
