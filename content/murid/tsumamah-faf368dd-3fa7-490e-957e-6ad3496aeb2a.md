@@ -362,9 +362,30 @@ laporan:
 - majlis: 51
   tanggal: "05/11/2026 (40m)"
   jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah (Hafalan & Syarh)"
-  rincian_laporan: "Tsumamah QS. Al-Hujurat ayat 12 - Adz-Dzariyat ayat 30 | dari (ويشترط معرفة القبلة) sampai (قائما) & dari (ويجب رفع النجاسة) sampai (النية)"
+  rincian_laporan: "QS. Al-Hujurat ayat 12 - Adz-Dzariyat ayat 30 | dari (ويشترط معرفة القبلة) sampai (قائما) & dari (ويجب رفع النجاسة) sampai (النية)"
   nilai: "B"
   catatan_laporan: "(1) Tidak monyong pada huruf sukun, walaupun dalam huruf yg bertasydid (يمنّون). (2) Bayniyyah ra (فذكر بالقرآن)."
+
+- majlis: 52
+  tanggal: "10/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah | Ar-Risalah (Hafalan & Syarh)"
+  rincian_laporan: "QS. Ali 'Imran ayat 92-132 | dari (فروض الصلاة) sampai (ويفعل باقي الركعات كذلك) & dari (وتكبيرة الإحرام) sampai (وليس في الفاتحة ظاء)."
+  nilai: "B"
+  catatan_laporan: "(1) Ha terakhir ketika waqf harus tetap ada (فأهلكته). (2) Tidak ada ghunnah (أو يعدبهم)."
+
+- majlis: 53
+  tanggal: "11/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah | Ar-Risalah (Hafalan & Syarh)"
+  rincian_laporan: "QS. Ali 'Imran ayat 133-180 C | dari (والتشهد الأول وقعوده سنة) sampai (السلام عليكم) & dari (ثم الركوع) sampai (والاعتدال ويطمئن فيه وجوبا)"
+  nilai: "B"
+  catatan_laporan: "(1) Tidak ada mad stlh ba (ربهم). (2) Bayniyyah mim dan ra (في الأمر)."
+
+- majlis: 54
+  tanggal: "12/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah | Ar-Risalah (Hafalan & Syarh)"
+  rincian_laporan: "QS. Ali 'Imran ayat 181 - An-Nisa ayat 14 | Dari (وأقل التشهد) sampai (عبده ورسوله) & Dari (ثم السجود مرتين) sampai (ثم السجود مرتين)."
+  nilai: "B"
+  catatan_laporan: "(1) Nun dibaca tipis (إن الله). (2) Tidak berlebihan dalam sifat takrir ra (ذرية)."
 
 ---
 
