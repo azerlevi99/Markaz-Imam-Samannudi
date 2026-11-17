@@ -157,10 +157,17 @@ laporan:
   catatan_laporan: "(1) Rikhawh ghain (فاستغفروه). (2) Itmam dhammah dan tidak ada monyong ketika ghunnah (كنت)."
 
 - majlis: 22
-  tanggal: "03/11/2026 (15m)"
+  tanggal: "02/11/2026 (15m)"
   jenis_laporan: "Tahfiz - Ziyadah"
   rincian_laporan: "QS. Hud ayat 82-107"
   nilai: "A"
   catatan_laporan: "-"
+
+- majlis: 23
+  tanggal: "12/11/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Hud ayat 109 - Yusuf ayat 4"
+  nilai: "A"
+  catatan_laporan: "(1) Mad 'Aridh dibaca 2/4/6 hrkt, jangan nanggung (3/5 hrkt)."
 ---
 

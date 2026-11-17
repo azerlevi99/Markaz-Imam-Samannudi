@@ -387,5 +387,12 @@ laporan:
   nilai: "B"
   catatan_laporan: "(1) Nun dibaca tipis (إن الله). (2) Tidak berlebihan dalam sifat takrir ra (ذرية)."
 
+- majlis: 55
+  tanggal: "16/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Ziyadah & Ujian"
+  rincian_laporan: "QS. An-Nisa ayat 15-23 & Juz 25-30 dan 1-4"
+  nilai: "B & Belum lulus"
+  catatan_laporan: "(1) Mengulang juz 27 dan 2."
+
 ---
 
