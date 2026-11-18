@@ -169,5 +169,12 @@ laporan:
   rincian_laporan: "QS. Hud ayat 109 - Yusuf ayat 4"
   nilai: "A"
   catatan_laporan: "(1) Mad 'Aridh dibaca 2/4/6 hrkt, jangan nanggung (3/5 hrkt)."
+
+- majlis: 24
+  tanggal: "17/11/2026 (15m)"
+  jenis_laporan: "Tahfiz - Ziyadah"
+  rincian_laporan: "QS. Yusuf ayat 4-30"
+  nilai: "B"
+  catatan_laporan: "(1) Tha sukun tetap tebal."
 ---
 

@@ -394,5 +394,12 @@ laporan:
   nilai: "B & Belum lulus"
   catatan_laporan: "(1) Mengulang juz 27 dan 2."
 
+- majlis: 56
+  tanggal: "18/11/2026 (40m)"
+  jenis_laporan: "Tahfiz - Murojaah | Ar-Risalah Al-Jami'ah (Hafalan & Syarh)"
+  rincian_laporan: "QS. Al-Baqarah ayat 142-186 | Dari (وأقل السلام) sampai (لله وحده) & Dari (والجلوس بين السجدتين) sampai (والتشهد الأول وقعوده سنة)"
+  nilai: "B"
+  catatan_laporan: "-"
+
 ---
 
